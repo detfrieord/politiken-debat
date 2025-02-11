@@ -90,8 +90,8 @@
 | MADS HVID | <span title="Socialistisk Folkeparti">SF</span> | Politiker | [<a href="https://politiken.dk/debat/debatindlaeg/art10159892/Kommunalvalgskandidat-for-SF-Nu-er-Europa-alene-hjemme.-Måske-er-det-meget-godt" title="https://politiken.dk/debat/debatindlaeg/art10159892/Kommunalvalgskandidat-for-SF-Nu-er-Europa-alene-hjemme.-Måske-er-det-meget-godt">1</a>] |
 | MARCUS GULDAGER | <span title="Socialdemokratiet">S</span> | Politiker | [<a href="https://politiken.dk/debat/debatindlaeg/art10156235/Unge-socialdemokrater-Da-vi-stod-til-Harris’-sidste-rally-forstod-vi-demokraternes-problem" title="https://politiken.dk/debat/debatindlaeg/art10156235/Unge-socialdemokrater-Da-vi-stod-til-Harris’-sidste-rally-forstod-vi-demokraternes-problem">1</a>] |
 | FREDERIKKE HELLEMANN | <span title="Enhedslisten">Ø</span> | Politiker | [<a href="https://politiken.dk/debat/debatindlaeg/art10274386/Enhedslisten-Magnus-Barsøe-går-de-blå-partiers-ærinde" title="https://politiken.dk/debat/debatindlaeg/art10274386/Enhedslisten-Magnus-Barsøe-går-de-blå-partiers-ærinde">1</a>] |
-## Partier og antal debatindlæg, sammenlagt
-Antal debatindlæg hvor en eller flere skribenter repræsenterer et politisk parti
+## Antal debatindlæg i forhold til partier, sammenlagt
+Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitiker) fordelt på partier
 | Parti | Artikler |
 |:--- |:---:|
 | <span title="Socialdemokratiet">S</span> | 31 | 
@@ -108,3 +108,35 @@ Antal debatindlæg hvor en eller flere skribenter repræsenterer et politisk par
 | <span title="Alternativet">Å</span> | 2 | 
 | <span title="Dansk Folkeparti">DF</span> | 2 | 
 | <span title="Grønne Demokrater">GD</span> | 1 | 
+## Antal debatindlæg skrevet af regeringsmedlemmer, sammenlagt
+| Parti | Artikler |
+|:--- |:---:|
+| <span title="Socialdemokratiet">S</span> | 12 | 
+| <span title="Moderaterne">M</span> | 3 | 
+| <span title="Venstre">V</span> | 2 | 
+## Antal debatindlæg skrevet af politikere, sammenlagt
+| Parti | Artikler |
+|:--- |:---:|
+| <span title="Socialdemokratiet">S</span> | 11 | 
+| <span title="Enhedslisten">Ø</span> | 10 | 
+| <span title="Radikale">R</span> | 6 | 
+| <span title="Socialistisk Folkeparti">SF</span> | 4 | 
+| <span title="Udenfor partierne">UP</span> | 3 | 
+| <span title="Alternativet">Å</span> | 2 | 
+| <span title="Liberal Alliance">LA</span> | 2 | 
+| <span title="Moderaterne">M</span> | 1 | 
+| <span title="Konservative">K</span> | 1 | 
+| <span title="Borgernes Parti">BP</span> | 1 | 
+| <span title="Dansk Folkeparti">DF</span> | 1 | 
+| <span title="Grønne Demokrater">GD</span> | 1 | 
+| <span title="Venstre">V</span> | 1 | 
+## Antal debatindlæg skrevet af ungdomspolitikere, sammenlagt
+| Parti | Artikler |
+|:--- |:---:|
+| <span title="Liberal Alliance">LA</span> | 7 | 
+| <span title="Konservative">K</span> | 6 | 
+| <span title="Venstre">V</span> | 3 | 
+| <span title="DanmarksDemokraterne">DD</span> | 2 | 
+| <span title="Dansk Folkeparti">DF</span> | 1 | 
+| <span title="Socialistisk Folkeparti">SF</span> | 1 | 
+| <span title="Radikale">R</span> | 1 | 
