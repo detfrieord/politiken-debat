@@ -90,7 +90,7 @@
 | MADS HVID | <span title="Socialistisk Folkeparti">SF</span> | Politiker | [<a href="https://politiken.dk/debat/debatindlaeg/art10159892/Kommunalvalgskandidat-for-SF-Nu-er-Europa-alene-hjemme.-Måske-er-det-meget-godt" title="https://politiken.dk/debat/debatindlaeg/art10159892/Kommunalvalgskandidat-for-SF-Nu-er-Europa-alene-hjemme.-Måske-er-det-meget-godt">1</a>] |
 | MARCUS GULDAGER | <span title="Socialdemokratiet">S</span> | Politiker | [<a href="https://politiken.dk/debat/debatindlaeg/art10156235/Unge-socialdemokrater-Da-vi-stod-til-Harris’-sidste-rally-forstod-vi-demokraternes-problem" title="https://politiken.dk/debat/debatindlaeg/art10156235/Unge-socialdemokrater-Da-vi-stod-til-Harris’-sidste-rally-forstod-vi-demokraternes-problem">1</a>] |
 | FREDERIKKE HELLEMANN | <span title="Enhedslisten">Ø</span> | Politiker | [<a href="https://politiken.dk/debat/debatindlaeg/art10274386/Enhedslisten-Magnus-Barsøe-går-de-blå-partiers-ærinde" title="https://politiken.dk/debat/debatindlaeg/art10274386/Enhedslisten-Magnus-Barsøe-går-de-blå-partiers-ærinde">1</a>] |
-## Antal debatindlæg i forhold til partier, sammenlagt
+### Antal debatindlæg i forhold til partier, sammenlagt
 Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitiker) fordelt på partier
 | Parti | Artikler |
 |:--- |:---:|
@@ -108,13 +108,14 @@ Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitik
 | <span title="Alternativet">Å</span> | 2 | 
 | <span title="Dansk Folkeparti">DF</span> | 2 | 
 | <span title="Grønne Demokrater">GD</span> | 1 | 
-## Antal debatindlæg skrevet af regeringsmedlemmer, sammenlagt
+### Regering, antal debatindlæg skrevet af regeringsmedlemmer
+En del debatindlæg er skrevet i forening, dvs. repræsenterer flere partier
 | Parti | Artikler |
 |:--- |:---:|
 | <span title="Socialdemokratiet">S</span> | 12 | 
 | <span title="Moderaterne">M</span> | 3 | 
 | <span title="Venstre">V</span> | 2 | 
-## Antal debatindlæg skrevet af politikere, sammenlagt
+### Politikere, antal debatindlæg fordelt på partier
 | Parti | Artikler |
 |:--- |:---:|
 | <span title="Socialdemokratiet">S</span> | 11 | 
@@ -130,7 +131,8 @@ Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitik
 | <span title="Dansk Folkeparti">DF</span> | 1 | 
 | <span title="Grønne Demokrater">GD</span> | 1 | 
 | <span title="Venstre">V</span> | 1 | 
-## Antal debatindlæg skrevet af ungdomspolitikere, sammenlagt
+### Ungdomspolitikere, antal debatindlæg fordelt på partier
+De udmærker sig ved at have en række debatindlæg skrevet i forening på tværs af partiskel. Så det samme debatindlæg kan blive talt med for flere partier.
 | Parti | Artikler |
 |:--- |:---:|
 | <span title="Liberal Alliance">LA</span> | 7 | 
@@ -140,3 +142,9 @@ Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitik
 | <span title="Dansk Folkeparti">DF</span> | 1 | 
 | <span title="Socialistisk Folkeparti">SF</span> | 1 | 
 | <span title="Radikale">R</span> | 1 | 
+### Regering, politiker, ungdomspolitiker, antal debatindlæg i alt
+| Parti | Artikler |
+|:--- |:---:|
+| Regering | 17 | 
+| Politiker | 44 | 
+| Ungdomspolitiker | 21 | 
