@@ -1,8 +1,8 @@
 # Husindlæg
-|Type|Antal|
+Antal husindlæg i forhold til antal debatindlæg|Type|Antal|
 |:---|---:|
-|714|Debatindlæg|
-|470|Husindlæg|
+|Debatindlæg|714|
+|Husindlæg|470|
 ## Journalister
 I alt 43 forskellige journalister på Politiken producerede i perioden sammenlagt 472 debatindlæg, eller <q>husindlæg</q>.
 |Journalist|Titel|Køn|Artikler|
