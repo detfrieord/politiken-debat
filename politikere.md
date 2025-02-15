@@ -45,7 +45,7 @@
 |MICHAEL VINDFELT|<span title="Socialdemokratiet">S</span>|Politiker|[<a href="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan" title="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan">1</a>]|
 |LASSE FRIMAND-JENSEN|<span title="Socialdemokratiet">S</span>|Politiker|[<a href="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan" title="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan">1</a>]|
 |ANDERS WINNERSKJOLD|<span title="Socialdemokratiet">S</span>|Politiker|[<a href="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan" title="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan">1</a>]|
-|NOAH BREDBERG|<span title="DanmarksDemokraterne">DD</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10252550/Tag-stemmeretten-fra-de-udenlandske-statsborgere" title="https://politiken.dk/debat/debatindlaeg/art10252550/Tag-stemmeretten-fra-de-udenlandske-statsborgere">1</a>]|
+|NOAH BREDBERG|<span title="Danmarksdemokraterne">DD</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10252550/Tag-stemmeretten-fra-de-udenlandske-statsborgere" title="https://politiken.dk/debat/debatindlaeg/art10252550/Tag-stemmeretten-fra-de-udenlandske-statsborgere">1</a>]|
 |PERNILLE ROSENKRANTZ-THEIL|<span title="Socialdemokratiet">S</span>|Politiker|[<a href="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan" title="https://politiken.dk/debat/kroniken/art10261409/S-borgmestre-og-kandidater-Vores-børn-fortjener-sunde-digitale-liv.-Her-er-vores-plan">1</a>]|
 |HELENE BRYDENSHOLT|<span title="Alternativet">Å</span>|Politiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10257028/Som-teenager-skammede-jeg-mig-over-at-være-lesbisk.-I-dag-er-jeg-bange" title="https://politiken.dk/debat/debatindlaeg/art10257028/Som-teenager-skammede-jeg-mig-over-at-være-lesbisk.-I-dag-er-jeg-bange">1</a>]|
 |JOHAN LOTZ HALD|<span title="Socialdemokratiet">S</span>|Politiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10205294/To-socialdemokrater-Vi-ved-at-det-virker-mod-bandekriminalitet.-Så-hvorfor-svinger-regeringen-sparekniven" title="https://politiken.dk/debat/debatindlaeg/art10205294/To-socialdemokrater-Vi-ved-at-det-virker-mod-bandekriminalitet.-Så-hvorfor-svinger-regeringen-sparekniven">1</a>]|
@@ -55,7 +55,7 @@
 |LARS BOJE MATHIESEN|<span title="Borgernes Parti">BP</span>|Politiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10248260/Vi-skal-have-folkestyre-ikke-styring-af-folket" title="https://politiken.dk/debat/debatindlaeg/art10248260/Vi-skal-have-folkestyre-ikke-styring-af-folket">1</a>]|
 |MAGNUS BARSØE|<span title="Socialdemokratiet">S</span>|Politiker|[<a href="https://politiken.dk/debat/kroniken/art10243068/Salonkommunisterne-nyder-trygheden-men-nægter-at-betale-regningen" title="https://politiken.dk/debat/kroniken/art10243068/Salonkommunisterne-nyder-trygheden-men-nægter-at-betale-regningen">1</a>]|
 |VIVIANE ELLASOFIE KARLSEN|<span title="Borgernes Parti">BP</span>|Politiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10248260/Vi-skal-have-folkestyre-ikke-styring-af-folket" title="https://politiken.dk/debat/debatindlaeg/art10248260/Vi-skal-have-folkestyre-ikke-styring-af-folket">1</a>]|
-|MAGNUS BIGUMO|<span title="DanmarksDemokraterne">DD</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
+|MAGNUS BIGUMO|<span title="Danmarksdemokraterne">DD</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
 |MIA NYEGAARD|<span title="Radikale">R</span>|Politiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10204134/Vi-bryder-ikke-grundloven" title="https://politiken.dk/debat/debatindlaeg/art10204134/Vi-bryder-ikke-grundloven">1</a>]|
 |LONE LOKLINDT|<span title="Radikale">R</span>|Politiker|[<a href="https://politiken.dk/debat/kroniken/art10104886/Her-er-seks-principper-for-hvordan-vi-skal-genskabe-balancen-så-kloden-ikke-knækker-under-presset-fra-menneskeheden" title="https://politiken.dk/debat/kroniken/art10104886/Her-er-seks-principper-for-hvordan-vi-skal-genskabe-balancen-så-kloden-ikke-knækker-under-presset-fra-menneskeheden">1</a>]|
 |MATHILDE HOLST|<span title="Liberal Alliance">LA</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10128713/Man-kan-ikke-kalde-sig-liberal-når-man-vægter-sin-aversion-mod-udlændinge-højere-end-menneskerettigheder" title="https://politiken.dk/debat/debatindlaeg/art10128713/Man-kan-ikke-kalde-sig-liberal-når-man-vægter-sin-aversion-mod-udlændinge-højere-end-menneskerettigheder">1</a>]|
@@ -83,7 +83,7 @@
 |JONAS LAUGE ANDERSEN|<span title="Konservative">K</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
 |SVEND STENFALK|<span title="Konservative">K</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
 |WILHELM THOMSEN|<span title="Konservative">K</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
-|CHRISTIAN ANDERSEN BREJNER|<span title="DanmarksDemokraterne">DD</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
+|CHRISTIAN ANDERSEN BREJNER|<span title="Danmarksdemokraterne">DD</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
 |SØREN NØRGAARD|<span title="Liberal Alliance">LA</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet" title="https://politiken.dk/debat/kroniken/art10164913/Borgerligere-ungdomspolitikere-Demonstrationer-står-i-modsætning-til-demokratiet">1</a>]|
 |BOLETTE BJERRE|<span title="Venstre">V</span>|Ungdomspolitiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10178085/Folkeskolens-udfordringer-skal-ikke-spises-af-med-en-madordning" title="https://politiken.dk/debat/debatindlaeg/art10178085/Folkeskolens-udfordringer-skal-ikke-spises-af-med-en-madordning">1</a>]|
 |MARCUS GULDAGER|<span title="Socialdemokratiet">S</span>|Politiker|[<a href="https://politiken.dk/debat/debatindlaeg/art10156235/Unge-socialdemokrater-Da-vi-stod-til-Harris’-sidste-rally-forstod-vi-demokraternes-problem" title="https://politiken.dk/debat/debatindlaeg/art10156235/Unge-socialdemokrater-Da-vi-stod-til-Harris’-sidste-rally-forstod-vi-demokraternes-problem">1</a>]|
@@ -98,7 +98,7 @@
 ### Antal debatindlæg i forhold til partier, sammenlagt
 Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitiker) fordelt på partier
 |Parti|Artikler|
-|:---|:---:|
+|:---:|:---:|
 |<span title="Socialdemokratiet">S</span>|34|
 |<span title="Enhedslisten">Ø</span>|15|
 |<span title="Konservative">K</span>|15|
@@ -108,7 +108,7 @@ Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitik
 |<span title="Venstre">V</span>|8|
 |<span title="Moderaterne">M</span>|5|
 |<span title="Udenfor partierne">UP</span>|3|
-|<span title="DanmarksDemokraterne">DD</span>|3|
+|<span title="Danmarksdemokraterne">DD</span>|3|
 |<span title="Dansk Folkeparti">DF</span>|2|
 |<span title="Alternativet">Å</span>|2|
 |<span title="Borgernes Parti">BP</span>|2|
@@ -116,13 +116,13 @@ Summen af samtlige skribenters debatindlæg (regering, politiker, ungdomspolitik
 ### Regering, antal debatindlæg skrevet af regeringsmedlemmer
 En del debatindlæg er skrevet i forening, dvs. repræsenterer flere partier
 |Parti|Artikler|
-|:---|:---:|
+|:---:|:---:|
 |<span title="Socialdemokratiet">S</span>|13|
 |<span title="Moderaterne">M</span>|3|
 |<span title="Venstre">V</span>|2|
 ### Politikere, antal debatindlæg fordelt på partier
 |Parti|Artikler|
-|:---|:---:|
+|:---:|:---:|
 |<span title="Enhedslisten">Ø</span>|11|
 |<span title="Socialdemokratiet">S</span>|11|
 |<span title="Radikale">R</span>|6|
@@ -139,17 +139,17 @@ En del debatindlæg er skrevet i forening, dvs. repræsenterer flere partier
 ### Ungdomspolitikere, antal debatindlæg fordelt på partier
 De udmærker sig ved at have en række debatindlæg skrevet i forening på tværs af partiskel. Så det samme debatindlæg kan blive talt med for flere partier.
 |Parti|Artikler|
-|:---|:---:|
+|:---:|:---:|
 |<span title="Liberal Alliance">LA</span>|7|
 |<span title="Konservative">K</span>|6|
 |<span title="Venstre">V</span>|3|
-|<span title="DanmarksDemokraterne">DD</span>|2|
+|<span title="Danmarksdemokraterne">DD</span>|2|
 |<span title="Dansk Folkeparti">DF</span>|1|
 |<span title="Socialistisk Folkeparti">SF</span>|1|
 |<span title="Radikale">R</span>|1|
 ### Regering, politiker, ungdomspolitiker, antal debatindlæg i alt
 |Rolle|Artikler|
-|:---|:---:|
+|:---:|:---:|
 |Regering|18|
 |Politiker|48|
 |Ungdomspolitiker|21|
