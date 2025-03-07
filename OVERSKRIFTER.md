@@ -1,5 +1,9 @@
 # Overskrifter
 Ud af i alt 1334 debatindlæg fik 732 indlæg ændret overskrift (evt. også manchet) mindst 1 gang. Det svarer til lige godt 55%. 
+### Alternative overskrifter, fordeling
+|1 alt.|2 alt.|3 alt.|4 alt.|5 alt.|
+|:---|:---|:---|:---|:---|
+|485|193|43|10|1|
 |#|Overskrifter|
 |:---:|:---|
 |<span title="Registreret første gang 2025-02-03 16:00:02">art10270661</span>|<a href="https://politiken.dk/debat/kroniken/art10270661/Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60" title="https://politiken.dk/debat/kroniken/art10270661/Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60">Forskere: Skoleeleverne lærer om sex i uge 6. Men hvad med de ældre? Skal vi have en uge 60?</a><br><a href="https://politiken.dk/debat/kroniken/art10270661/Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60" title="https://politiken.dk/debat/kroniken/art10270661/Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60">Forskere: Ja, orgasmegabet skal lukkes. Men hvordan skal det egentlig ske for 50+ kvinder, der ikke lige ligner Kidman?</a><br><a href="https://politiken.dk/debat/kroniken/art10270661/Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60" title="https://politiken.dk/debat/kroniken/art10270661/Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60">Forskere: Forskere om 'Mommy Makeovers': De ville dyrke sig selv og deres krop</a><br><a href="https://politiken.dk/debat/kroniken/art10270661/Forskere-Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60" title="https://politiken.dk/debat/kroniken/art10270661/Forskere-Skoleeleverne-lærer-om-sex-i-uge-6.-Men-hvad-med-de-ældre-Skal-vi-have-en-uge-60">Forskere om 'Mommy Makeovers': De ville dyrke sig selv og deres krop</a>|
